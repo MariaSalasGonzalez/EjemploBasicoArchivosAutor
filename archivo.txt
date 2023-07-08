@@ -1,0 +1,5 @@
+
+marjorie	44	f
+karla	22	f
+carlos	44	m
+luis	55	m
